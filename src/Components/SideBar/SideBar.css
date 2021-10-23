@@ -1,0 +1,56 @@
+.contentHeading{
+	font-size: 22px;
+	font-weight: bold;
+	background-color: #f1aa95;
+	color: rgba(250,233,250,1);
+	width: 90%;
+	padding: 3%;
+	text-align:center;
+}
+.aboutContent{
+	width: 90%;
+	text-align: left;
+}
+.language > p {
+	font-size: 16px;
+	color: rgb(29, 99, 206);
+}
+
+.proEng{
+	width: 85%;
+}
+
+
+.proKan{
+	width: 100%;
+}
+
+.proHindi{
+	width: 75%;
+}
+
+.proMara{
+	width: 85%;
+}
+.progress-bar{
+	background-color: cornflowerblue !important;
+}
+
+.hobbieContent{
+	height: 80px;
+	width: 80px;
+	padding: 20%;
+	background-color: rgba(29, 99, 206, 0.2);
+	color: cornflowerblue;
+}
+.ContactLogo{
+	color: cornflowerblue;
+	height: 30px;
+	width: 30px;
+}
+.PersonalInfoConte >p {
+	font-size: 16px;
+	color: rgb(29, 99, 206);
+	width: 80%;
+	word-wrap: break-word;
+}

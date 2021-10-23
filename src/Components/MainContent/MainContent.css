@@ -1,0 +1,89 @@
+.titleLogo{
+	background-color: rgba(70, 101, 215, 0.7);
+	padding: 2%;
+	border-radius: 50%;
+	color: white
+}
+.titleText, .titleProject, .titleEducation, .titleSupport{
+	font-size: 22px;
+	font-weight: bold;
+	color: rgba(70, 101, 215, 0.7);
+}
+
+.titleText:after {
+    content:"";
+    display: inline-block;
+    height: 0.9em;
+    vertical-align: bottom;
+    width: 60%;
+    margin-right: -100%;
+    margin-left: 25px;
+    border-top: 5px solid rgba(70, 101, 215, 0.2);
+}
+
+.titleProject:after, .titleEducation:after{
+    content:"";
+    display: inline-block;
+    height: 0.9em;
+    vertical-align: bottom;
+    width: 75%;
+    margin-right: -100%;
+    margin-left: 25px;
+    border-top: 5px solid rgba(70, 101, 215, 0.2);
+
+}
+.titleSupport:after{
+    content:"";
+    display: inline-block;
+    height: 0.9em;
+    vertical-align: bottom;
+    width: 62%;
+    margin-right: -100%;
+    margin-left: 25px;
+    border-top: 5px solid rgba(70, 101, 215, 0.2);
+
+}
+.headings{
+	font-size: 22px;
+	font-weight: bold;
+	color: rgba(70, 101, 215, 0.7);	
+}
+.companySection > h3 {
+	font-size: 22px;
+}
+
+.educationtitle{
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+    border-right: 3px solid gray; 
+}
+
+.proNode{
+    width:75%;
+}
+.proPHP{
+    width: 98%;
+}
+
+.proReact{
+    width: 97%;
+}
+
+.proHTML{
+    width: 95%;
+}
+
+.proCSS{
+    width: 85%;
+}
+
+.proJS{
+    width: 75%;
+}
+.promysql{
+    width: 95%;
+}
+.promongo{
+    width: 95%;
+}
